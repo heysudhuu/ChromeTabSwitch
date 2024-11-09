@@ -24,3 +24,7 @@ Install the extension from the Chrome Web Store.
 Set up your preferred keyboard shortcuts.
 
 Start switching and managing your tabs effortlessly!
+
+**Download This Extension From Gdrive**
+
+https://drive.google.com/drive/folders/1l6X8twC5zjmLVIgPDTQgsT0Ff6fFWhwH?usp=sharing
