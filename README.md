@@ -25,6 +25,34 @@ Set up your preferred keyboard shortcuts.
 
 Start switching and managing your tabs effortlessly!
 
+**In Case Copy Paste Option is not working then try this Console**
+1 right click Inspect the webpage or use Ctrl + Shif t+ I
+
+2 In consol paste the code
+
+3 If consol is not allowing for pasting type: allow paste or allow pasting
+
+4
+
+5 // This code removes restrictions on copy, cut, pa ste, and right-click.
+
+6 document.addEventListener('contextmenu', (e) => e. stopImmediate Propagation(), true); // Disable righ t-click
+
+7 document.addEventListener('copy', (e) => e.stopImm ediate Propagation(), true); // Allow copy
+
+8 document.addEventListener('cut', (e) => e.stopImme diatePropagation(), true); // Allow cut
+
+9 document.addEventListener('paste', (e) => e.stopIm mediate Propagation(), true); // Allow paste
+
+10
+
+11
+
+// Allow text selection (if blocked by CSS)
+
+12 document.body.style.userSelect = "auto"; // Enable text selection
+
+
 **Download This Extension From Gdrive**
 
 https://drive.google.com/drive/folders/1l6X8twC5zjmLVIgPDTQgsT0Ff6fFWhwH?usp=sharing
