@@ -52,6 +52,9 @@ Start switching and managing your tabs effortlessly!
 
 12 document.body.style.userSelect = "auto"; // Enable text selection
 
+> Stay updated and get support by following the developer on [Instagram](https://instagram.com/hey.sudhu).
+
+
 
 **Download This Extension From Gdrive**
 
